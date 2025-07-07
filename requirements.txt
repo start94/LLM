@@ -1,0 +1,2 @@
+openai==1.35.13 # Usa la versione che hai testato o l'ultima stabile
+requests # Anche se non direttamente importato nel tuo snippet, è menzion
